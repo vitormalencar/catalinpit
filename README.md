@@ -3,13 +3,10 @@
 
 I am a Full Stack Developer working on web applications used by millions of people daily. I specialise in backend JavaScript technologies such as NodeJS and Express. Besides that, I am an enthusiast of AWS and I look to become an AWS expert.
 
-Frontend: HTML, CSS, SASS, Vanilla JavaScript, Pug
-
-Backend: Java, NodeJS, Docker
-
-Cloud Computing: AWS
-
-CI/CD: Drone, Jenkins 
+* Frontend: HTML, CSS, SASS, Vanilla JavaScript, Pug
+* Backend: Java, NodeJS, Docker
+* Cloud Computing: AWS
+* CI/CD: Drone, Jenkins 
 
 
 ### You can also find me on
