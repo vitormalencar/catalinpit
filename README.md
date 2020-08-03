@@ -9,10 +9,10 @@ A Software Engineer with industry experience building web application used by mi
 * CI/CD: Drone, Jenkins 
 
 
-### You can also find me on
+## You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/catalinpit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/catalinmpit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@catalinmpit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://catalins.tech)  
 
-### My GitHub Stats &#x1f4c8;
+## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/catalinpit/catalinpit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinpit&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
