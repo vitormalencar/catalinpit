@@ -1,22 +1,26 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
-###### *Software Engineer*
 
 My stack is as follows:
 * Frontend: HTML, CSS, SASS, Vanilla JavaScript, Pug
 * Backend: Java, NodeJS, Docker
 * Cloud Computing: AWS
-* CI/CD: Drone, Jenkins 
-
-## Blogging
-You can find me writing &#x270f; on my blog *[catalins.tech](https://catalins.tech)*, or on  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='40'>](https://dev.to/catalinmpit)  where I cross-post my articles.
+* CI/CD: Drone, Jenkins
 
 
-## I am also lurking on
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/catalinpit/)  
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/catalinmpit/)  
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@catalinmpit)  
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://catalins.tech) 
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/catalinmpit)
+## Blogging  &#x270f;
+You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or on  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/catalinmpit)  where I cross-post my articles.
+
+
+## I am also lurking on ⚡
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/catalinpit/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/catalinmpit/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@catalinmpit)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://catalins.tech)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='25'>](https://dev.to/catalinmpit)
 
 ## My GitHub Stats &#x1f4c8;
 
