@@ -1,18 +1,5 @@
-![banner](https://pbs.twimg.com/profile_banners/173057927/1598278763/1500x500)
-
----
-
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
-My stack is as follows:
-* **Frontend**: HTML, CSS, SASS, Vanilla JavaScript, Pug
-* **Backend**: Java, NodeJS, Docker
-* **Cloud Computing**: AWS
-* **CI/CD**: Drone, Jenkins
-
----
-
-## Blogging  &#x270f;
 You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or on  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='website' height='30'>](https://dev.to/catalinmpit)  where I cross-post my articles.
 
 ---
