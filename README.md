@@ -7,6 +7,11 @@ You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Tips You Want To See If You Work Remotely](https://catalins.tech/5-tips-you-want-to-see-if-you-work-remotely)
+- [KeystoneJS & GraphQL API Crash Course](https://catalins.tech/keystonejs-and-graphql-api-crash-course)
+- [How To Make The Most Of Your Hashnode Blog](https://catalins.tech/how-to-make-the-most-of-your-hashnode-blog)
+- [10 Programming Project Ideas For Beginners](https://catalins.tech/10-programming-project-ideas-for-beginners)
+- [How To Use Custom CSS To Make Your Hashnode Blog Awesome](https://catalins.tech/how-to-use-custom-css-to-make-your-hashnode-blog-awesome)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://catalins.tech)
