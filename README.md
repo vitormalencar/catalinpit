@@ -3,9 +3,7 @@
 A Software Engineer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
 
 I create programming tutorials, mostly about Web Development and JavaScript. Occasionally, I cover other topics as well!
-I also create developer vlogs where I talk about other topics than coding.
-
-I'd advise you to subscribe to stay up-to-date!
+I also create developer vlogs where I talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 
 ---
 
