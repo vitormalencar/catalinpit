@@ -1,6 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
-You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or on [YouTube](https://catalins.tech/youtube)!
+A Software Engineer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+
+I create programming tutorials, mostly about Web Development and JavaScript. Occasionally, I cover other topics as well!
+I also create developer vlogs where I talk about other topics than coding.
+
+I'd advise you to subscribe to stay up-to-date!
 
 ---
 
@@ -14,7 +19,7 @@ You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or 
 - [Save Gigabytes Of Space With NPM and NPKill](https://www.youtube.com/watch?v=8xCeLJ-vaoU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg)
+➡️ [more videos...](https://catalins.tech/youtube)
 
 ---
 
@@ -32,7 +37,7 @@ You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or 
 
 ---
 
-## My GitHub Stats &#x1f4c8;
+## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/catalinpit/catalinpit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinpit&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
