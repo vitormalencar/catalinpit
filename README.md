@@ -7,6 +7,11 @@ You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How To Contribute To Open-Source Projects As A Beginner](https://www.youtube.com/watch?v=8e1Mnkdgi4Y)
+- [KeystoneJS & GraphQL API Crash Course](https://www.youtube.com/watch?v=SfYNg6vQH4I)
+- [6 Things I Learnt After Programming Nearly Destroyed My Life](https://www.youtube.com/watch?v=H4mZ4NLiG4o)
+- [Saturday Dev Stream - KeystoneJS, Technical Writing and more [Join Us]](https://www.youtube.com/watch?v=Oj9gj-JtTdQ)
+- [Save Gigabytes Of Space With NPM and NPKill](https://www.youtube.com/watch?v=8xCeLJ-vaoU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg)
