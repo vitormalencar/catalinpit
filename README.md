@@ -4,6 +4,15 @@ You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or 
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg)
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
