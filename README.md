@@ -4,6 +4,15 @@ You can find me writing on my blog *[catalins.tech](https://catalins.tech)*, or 
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://catalins.tech)
+
+---
+
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/catalinpit/catalinpit">
