@@ -24,11 +24,11 @@ I also create developer vlogs where I talk about other topics than coding. I'd a
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Best Places To Learn Programming For Free](https://catalins.tech/20-best-places-to-learn-programming-for-free)
 - [Getting Started With Open-Source: How To Contribute](https://catalins.tech/getting-started-with-open-source-how-to-contribute)
 - [5 Tips You Want To See If You Work Remotely](https://catalins.tech/5-tips-you-want-to-see-if-you-work-remotely)
 - [KeystoneJS & GraphQL API Crash Course](https://catalins.tech/keystonejs-and-graphql-api-crash-course)
 - [How To Make The Most Of Your Hashnode Blog](https://catalins.tech/how-to-make-the-most-of-your-hashnode-blog)
-- [10 Programming Project Ideas For Beginners](https://catalins.tech/10-programming-project-ideas-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://catalins.tech)
