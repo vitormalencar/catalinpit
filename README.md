@@ -1,9 +1,16 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
-A Software Engineer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+A Software Engineer specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. In my spare time, I play around:
+* Vue (Nuxt)
+* KeystoneJS
+* Node.js
+* MongoDB
+* TailwindCSS
 
 I create programming tutorials, mostly about Web Development and JavaScript. Occasionally, I cover other topics as well!
 I also create developer vlogs where I talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
+
+Also, I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
 
 ---
 
