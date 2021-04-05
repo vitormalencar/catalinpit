@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. In my spare time, I play around:
+A Software Engineer specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. In my spare time, I play around with:
 * Vue (Nuxt)
 * KeystoneJS
 * Node.js
