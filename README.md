@@ -2,7 +2,7 @@
 
 ![twitter-follower](https://img.shields.io/twitter/follow/catalinmpit?style=social) ![github-sponsors](https://img.shields.io/github/sponsors/catalinpit?label=GitHub%20Sponsors&style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=YouTube%20Subscribers&style=social) ![img](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20YouTube%20Channel&style=social)
 
-A Software Engineer specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. The **toolbox** section below, shows the technologies I use professionally and in my spare time too.
+A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the **toolbox** below.
 
 I create tech content, mostly about Web Development and JavaScript, **but** I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 
