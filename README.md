@@ -1,8 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
-![twitter-follower](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social) ![github-sponsors](https://img.shields.io/github/sponsors/catalinpit?label=People%20sponsoring%20me&style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=People%20subscribed%20to%20my%20channel&style=social) ![img](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20YouTube%20Channel&style=social)
-
-
 A Software Engineer specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. In my spare time, I play around with:
 * Vue (Nuxt)
 * KeystoneJS
@@ -10,10 +7,20 @@ A Software Engineer specializing in JavaScript technologies and AWS. Professiona
 * MongoDB
 * TailwindCSS
 
-I create programming tutorials, mostly about Web Development and JavaScript. Occasionally, I cover other topics as well!
-I also create developer vlogs where I talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
+I create tech content, mostly about Web Development and JavaScript. I also talk about other topics than coding. I'd advise you to subscribe to stay up-to-date!
 
-Also, I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+I managed to create an online presence with my [Blog](https://catalins.tech) and [YouTube](https://catalins.tech/youtube) channel, which are accessed by more than 3500 people monthly. Looking forward to reaching and helping more people by sharing my knowledge.
+
+---
+
+![twitter-follower](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social) 
+
+![github-sponsors](https://img.shields.io/github/sponsors/catalinpit?label=People%20sponsoring%20me&style=social) 
+
+![img](https://img.shields.io/youtube/channel/subscribers/UCl1IRCSmm74qhcFNPTHcbMg?label=People%20subscribed%20to%20my%20channel&style=social) 
+
+![img](https://img.shields.io/youtube/channel/views/UCl1IRCSmm74qhcFNPTHcbMg?label=Total%20views%20on%20my%20YouTube%20Channel&style=social)
+
 
 ---
 
